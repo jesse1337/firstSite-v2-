@@ -1,0 +1,11 @@
+
+.aside {
+    background-color: rgba(207, 78, 219, 0.567);
+    width: 200px; 
+    height: 1434px;
+    float: right;
+}
+
+.sideUL {
+    text-align: left;
+}

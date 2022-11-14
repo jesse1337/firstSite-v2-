@@ -1,0 +1,38 @@
+.body {
+    background-color: white;
+}
+
+.h3 {
+    color: black;
+    text-align: left;
+    font-size: 30px;
+    padding:0px;
+    padding-left:40px;
+}
+
+.ol {
+    color: black;
+    text-align: left;
+    padding-bottom:10px;
+}
+
+.ul {
+    color: black;
+    text-align: left;
+}
+
+.h1 {
+    color: black;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.text {
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.img {
+    padding:15px;
+}
